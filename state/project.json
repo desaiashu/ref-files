@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "id": "pxjoxa",
-    "name": "Untitled",
+    "id": "",
+    "name": "",
     "createdAt": "",
     "modifiedAt": ""
   },
@@ -12,7 +12,7 @@
     "bufferSize": 512
   },
   "trackAppearance": {},
-  "embeddedTemplates": {},
-  "videoFilePath": null,
-  "spaces": []
+  "customEditors": {},
+  "vibeFxEditors": {},
+  "videoFilePath": null
 }
