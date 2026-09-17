@@ -33,3 +33,6 @@ master
   strip tivraMastering
 
 sec main
+  trk 1 Audio |tge
+    c 0:299 34:256 |vqbl
+      'samples/Chicago sketch 11-dubpad 127 F [2020-12-03 123449].wav'
