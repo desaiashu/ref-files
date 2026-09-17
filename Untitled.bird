@@ -33,3 +33,6 @@ master
   strip tivraMastering
 
 sec main
+  trk 1 Audio |tge
+    c 1:140 34:256 |rdkv
+      'samples/Chicago sketch 10-Mini V3.wav'
